@@ -1,0 +1,12 @@
+/Users/dtbechtel/Google Drive/Coding/helloworld/bin/Debug/netcoreapp3.1/helloworld.deps.json
+/Users/dtbechtel/Google Drive/Coding/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.json
+/Users/dtbechtel/Google Drive/Coding/helloworld/bin/Debug/netcoreapp3.1/helloworld.runtimeconfig.dev.json
+/Users/dtbechtel/Google Drive/Coding/helloworld/bin/Debug/netcoreapp3.1/helloworld.dll
+/Users/dtbechtel/Google Drive/Coding/helloworld/bin/Debug/netcoreapp3.1/helloworld.pdb
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.csprojAssemblyReference.cache
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.csproj.CoreCompileInputs.cache
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfoInputs.cache
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.AssemblyInfo.cs
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.dll
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.pdb
+/Users/dtbechtel/Google Drive/Coding/helloworld/obj/Debug/netcoreapp3.1/helloworld.genruntimeconfig.cache
